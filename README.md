@@ -25,9 +25,6 @@ The app adopts a role-based model, offering personalized interfaces and features
 * Firebase Authentication (Secure user login)  
 * Firebase Firestore (Real-time database for care data)  
 * Firebase Cloud Storage (Profile image handling)  
-* Figma (UI design and prototyping)  
-* GitLab (Version control, task management)  
-* Discord (Team communication)  
 
 ---
 
