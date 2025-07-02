@@ -1,4 +1,4 @@
-# CareConnect – Mobile Care Coordination App (Kotlin, Jetpack Compose, Firebase)
+# CareConnect – Mobile Care Coordination App
 
 ## Table of Contents
 
